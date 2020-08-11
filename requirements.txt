@@ -1,0 +1,11 @@
+"To run the program without any errors you must have the following requirements"
+1)A working internet connection
+2)Python installed on your device
+3)Have these three libraries installed in python
+	a)requests
+	b)BeautifulSoup
+	c)Pandas
+You can download these libraries using pip command on your terminal
+	pip install BeautifulSoup
+	pip install requests
+	pip install pandas
