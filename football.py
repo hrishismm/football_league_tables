@@ -25,7 +25,7 @@ elif(choice==5):
 
 #Input for the particular season
 print("Pleaase Note:Data Available from 2008-09 season onwards")
-year=str(input("Enter the premier league season(Eg:2011-12):"))
+year=str(input("Enter the league season(Eg:2011-12):"))
 year=year[:4]
 
 #Adding the user inputs to the url
